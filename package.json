@@ -1,0 +1,13 @@
+{
+  "name": "linux-chrome",
+  "version": "0.0.0",
+  "description": "Launch a fresh Google Chrome on Linux",
+  "license": "MIT",
+  "repository": "juliangruber/linux-chrome",
+  "scripts": {
+    "test": "standard"
+  },
+  "devDependencies": {
+    "standard": "^8.0.0-beta.5"
+  }
+}
